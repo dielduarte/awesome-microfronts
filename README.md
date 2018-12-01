@@ -32,9 +32,10 @@
 ## Web sites
 
 - [Micro Front ends](https://micro-frontends.org/) 
-- [mosaic9](https://www.mosaic9.org/)
+- [Mosaic9](https://www.mosaic9.org/)
  
 ## Talks
 - [Micro frontends building a modern webapp with multiple teams](https://speakerdeck.com/naltatis/micro-frontends-building-a-modern-webapp-with-multiple-teams)
-- [code.talks 2017 - The Recipe For Scalable Frontends (Zalando/mosaic9)](https://www.youtube.com/watch?v=m32EdvitXy4)
-- [MICRO FRONTEND: A MICROSERVICE ARCHITECTURE FROM YOUR FRONTEND WEB APPS](https://www.youtube.com/watch?v=Kphwg2IsJfA)
+- [Code.talks 2017 - The Recipe For Scalable Frontends (Zalando/mosaic9)](https://www.youtube.com/watch?v=m32EdvitXy4)
+- [Micro FrontEnd: A microservice architecture from your frontend web apps](https://www.youtube.com/watch?v=Kphwg2IsJfA)
+- [XCONF Micro-Frontends – Matthias Laug](https://www.youtube.com/watch?v=Bnmy5zMY14s)
