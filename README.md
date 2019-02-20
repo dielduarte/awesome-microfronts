@@ -41,3 +41,4 @@
 - [Code.talks 2017 - The Recipe For Scalable Frontends (Zalando/mosaic9)](https://www.youtube.com/watch?v=m32EdvitXy4)
 - [Micro FrontEnd: A microservice architecture from your frontend web apps](https://www.youtube.com/watch?v=Kphwg2IsJfA)
 - [XCONF Micro-Frontends – Matthias Laug](https://www.youtube.com/watch?v=Bnmy5zMY14s)
+- [Micro Frontends: Break Up You Web App!](https://www.youtube.com/watch?v=o1Sr39DVdOQ)
