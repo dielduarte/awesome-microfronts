@@ -5,9 +5,12 @@
 
 ## Table of contents
 
-- [Blog Posts](#blog-Posts)
-- [WebSites](#web-sites)
-- [Talks](#talks)
+- [awesome-microfronts](#awesome-microfronts)
+- [WIP...](#wip)
+  - [Table of contents](#table-of-contents)
+  - [Blog Posts](#blog-posts)
+  - [Web sites](#web-sites)
+  - [Talks](#talks)
 
 ## Blog Posts
 
@@ -42,3 +45,4 @@
 - [Micro FrontEnd: A microservice architecture from your frontend web apps](https://www.youtube.com/watch?v=Kphwg2IsJfA)
 - [XCONF Micro-Frontends – Matthias Laug](https://www.youtube.com/watch?v=Bnmy5zMY14s)
 - [Micro Frontends: Break Up You Web App!](https://www.youtube.com/watch?v=o1Sr39DVdOQ)
+- [A high performmance solution to microservice ui composition](https://www.thoughtworks.com/talks/a-high-performmance-solution-to-microservice-ui-composition)
