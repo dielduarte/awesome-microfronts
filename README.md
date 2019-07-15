@@ -33,6 +33,8 @@
 - [Building Microfrontends Bonus Part - Rewriting an app with Elm](https://medium.com/@_rchaves_/building-microfrontends-bonus-part-rewriting-an-app-with-elm-97ddce415ff4) 
 
 - [Exploring micro frontends](https://medium.com/@benjamin.d.johnson/exploring-micro-frontends-87a120b3f71c)
+ 
+- [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
 
 ## Web sites
 
